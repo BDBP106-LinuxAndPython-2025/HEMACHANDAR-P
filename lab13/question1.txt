@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+#!/bin/bash
+
+>>>>>>> c0dbdca (this is my python status)
 Python is a high-level, interpreted programming language
 that is widely used for web development, data science, automation,
 artificial intelligence, and more.

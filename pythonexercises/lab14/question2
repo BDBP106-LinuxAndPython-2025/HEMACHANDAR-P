@@ -1,0 +1,13 @@
+#!/bin/bash
+
+>>> a=1
+>>> b=2
+>>> c=4
+>>> a and b
+2
+>>> not a<b or c>b
+True
+>>> type(complex(a,b+c).real) is int
+False
+>>> 
+
