@@ -1,0 +1,33 @@
+#sorting is done through the sort command and t there is field separator and , is separator 2n is coolumn number 2 and consider it as numericals
+
+sort -t ',' -k 2n SOCR-HeightWeight.csv | tail -n 15
+15967,74.25069,150.0567
+8829,74.2727,144.66
+4509,74.28376,147.7877
+17080,74.2957,170.5479
+10331,74.36328,164.6643
+21950,74.42744,141.7416
+16146,74.47517,130.9092
+22472,74.51784,146.9867
+24802,74.53177,148.9104
+15210,74.59993,147.0372
+13682,74.74047,155.5462
+16753,74.8489,122.1664
+2482,75.11519,153.9562
+1894,75.1528,146.9701
+
+
+# no the tallest person not having the most weight as i have sorted the third column also to check and his weight is 170.924
+
+ibab@IBAB-MSc-BDB-Comp07:~/IA-1_Practicals_MOCk$ sort -t ',' -k 3n SOCR-HeightWeight.csv | tail -n 10
+11975,71.26903,166.1956
+5395,70.75604,166.2812
+4625,71.78019,166.3016
+11754,70.3846,166.7687
+12884,71.58499,167.8045
+368,72.32489,168.229
+4344,73.52131,168.881
+7997,69.57329,169.1268
+17080,74.2957,170.5479
+10235,70.71295,170.924
+
