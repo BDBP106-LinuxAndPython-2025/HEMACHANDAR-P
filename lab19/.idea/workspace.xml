@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d41c62b-bc86-4bfb-af5a-29c51d94bb68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/q10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q1_q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab17/magic_date.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab17/magic_date.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="33p4p4GV1BnBHSfEUZhGwlfSJFu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -61,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/ibab/HEMACHANDAR-P/lab19"
+    "last_opened_file_path": "/home/ibab/IA2practicals"
   }
 }]]></component>
   <component name="RunManager">
