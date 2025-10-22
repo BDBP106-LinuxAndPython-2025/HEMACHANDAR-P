@@ -12,7 +12,7 @@ def checkList(lst, index):
     except TypeError:
         print("TypeError: Provided input is not a list or index is not an integer.")
 
-user_list = eval(input("Enter a list (e.g., [1, 2, 3]): "))
+user_list =eval(input("Enter a list (e.g., [1, 2, 3]): "))
 user_index = int(input("Enter the index: "))
 
 checkList(user_list, user_index)
