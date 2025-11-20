@@ -38,7 +38,7 @@ print()
 
 # (c)
 print("question c")
-# print(Car.make)  # gives error
+#print(Car.make)  # giving an error
 print(car1.make)   # correct way
 print()
 
